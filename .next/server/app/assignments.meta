@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/assignments/layout,_N_T_/assignments/page,_N_T_/assignments"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/assignments/__PAGE__",
+    "/assignments",
+    "/_index",
+    "/_head"
+  ]
+}

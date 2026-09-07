@@ -1,0 +1,21 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/assignments/route": "app/api/assignments/route.js",
+  "/api/events/route": "app/api/events/route.js",
+  "/api/execute/route": "app/api/execute/route.js",
+  "/api/health/route": "app/api/health/route.js",
+  "/api/projects/[id]/route": "app/api/projects/[id]/route.js",
+  "/api/projects/route": "app/api/projects/route.js",
+  "/api/tutor/route": "app/api/tutor/route.js",
+  "/assignments/page": "app/assignments/page.js",
+  "/challenges/page": "app/challenges/page.js",
+  "/class/page": "app/class/page.js",
+  "/compare/page": "app/compare/page.js",
+  "/lessons/page": "app/lessons/page.js",
+  "/page": "app/page.js",
+  "/playground/[id]/page": "app/playground/[id]/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/tutor/page": "app/tutor/page.js"
+}

@@ -1,0 +1,21 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/assignments/route": "/api/assignments",
+  "/api/events/route": "/api/events",
+  "/api/execute/route": "/api/execute",
+  "/api/health/route": "/api/health",
+  "/api/projects/[id]/route": "/api/projects/[id]",
+  "/api/projects/route": "/api/projects",
+  "/api/tutor/route": "/api/tutor",
+  "/assignments/page": "/assignments",
+  "/challenges/page": "/challenges",
+  "/class/page": "/class",
+  "/compare/page": "/compare",
+  "/lessons/page": "/lessons",
+  "/page": "/",
+  "/playground/[id]/page": "/playground/[id]",
+  "/projects/page": "/projects",
+  "/settings/page": "/settings",
+  "/tutor/page": "/tutor"
+}
